@@ -1,9 +1,9 @@
 *.log
-final_project/docs/User_Manual/
+final-project/docs/User_Manual/
 *-*.txt
-final_project/src/styles.css
-final_project/docs/Software_Requirement_Specification/SRS_v*.docx
-final_project/docs/Software_Design_Document/SDD_v*.docx
+final-project/src/styles.css
+final-project/docs/Software_Requirement_Specification/SRS_v*.docx
+final-project/docs/Software_Design_Document/SDD_v*.docx
 **/README.md
 !/README.md
 
