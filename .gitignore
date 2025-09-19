@@ -5,5 +5,5 @@ docs/Software_Requirement_Specification/SRS_v*.docx
 docs/Software_Design_Document/SDD_v*.docx
 src/styles.css
 **/README.md
-!/README.md
+
 
